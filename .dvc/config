@@ -1,4 +1,6 @@
 [core]
     remote = storage
 ['remote "storage"']
-    url = gdrive://1_ETtgKd_q_gDUDTLbhX9ZjkNn0OjxIPc
+    url = gdrive://1VMzQgy8xdxGzxETUc4CrmdqKif0WoNO3
+    gdrive_use_service_account = true
+    gdrive_service_account_json_file_path = ../mlops-337210-ff95a322e785.json
